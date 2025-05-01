@@ -1,0 +1,11 @@
+[project]
+name = "adk-image-agent-with-gpt-image-1"
+version = "0.1.0"
+description = "Google Agents with GPT-Image-1"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+"google-adk==0.3.0",
+"openai==1.76.0",
+"pillow==11.2.1",
+]
