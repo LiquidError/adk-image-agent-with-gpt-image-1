@@ -1,4 +1,3 @@
-\
 <div align="center">
   <img src="banner.png" alt="Project Banner: DEV-LOG Google ADK + GPT-Image-1: Pixel Art Powerhouse" width="600"/>
 </div>

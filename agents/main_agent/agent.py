@@ -8,7 +8,7 @@ from .sub_agents.image_agent.agent import image_agent
 
 logger = logging.getLogger(__name__)
 
-# --- Helper function to decode base64 --- (Copied from image_generation.py for convenience)
+# --- Helper function to decode base64 ---
 def _decode_b64_str(s: str) -> bytes:
     """Decode a base64 string, stripping data URL prefixes and adding padding."""
     if isinstance(s, str) and s.startswith("data:"):
