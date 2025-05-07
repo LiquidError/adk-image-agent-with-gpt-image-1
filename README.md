@@ -8,7 +8,7 @@
 
 Welcome to the **ADK Image Agent with GPT-Image-1** project! This repository showcases a powerful AI agent built using Google's Agent Development Kit (ADK) that leverages the capabilities of OpenAI's cutting-edge `gpt-image-1` model for advanced image generation and manipulation tasks.
 
-This project serves as a practical example and is featured in a Dev-Log series on the [@TonyAlfredsson YouTube channel](https://www.youtube.com/@TonyAlfredsson). Follow along to see how it was built and how it can be extended!
+This project serves as a practical example and is featured in a Dev-Log series on the [@TonyAlfredsson YouTube channel](https://youtu.be/RIDzCP0LERA). Follow along to see how it was built and how it can be extended!
 
 ## ✨ Introduction
 
